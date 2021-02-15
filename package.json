@@ -1,0 +1,19 @@
+{
+  "name": "cra-template-itwinjsapp-r",
+  "version": "1.0.2",
+  "keywords": [
+    "react",
+    "itwinjs",
+    "imodeljs",
+    "template"
+  ],
+  "description": "The base template to start with iTwinJs.",
+  "license": "MIT",
+  "engines": {
+    "node": ">=10"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
+}

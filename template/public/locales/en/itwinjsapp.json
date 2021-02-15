@@ -1,0 +1,9 @@
+{
+    "SigningIn": "Signing-in...",
+    "AppStarting": {
+        "Status": "Downloading And Opening iModel"
+    },
+    "Buttons":{
+        "QueryBackend": "Query Backend"
+    }
+}
